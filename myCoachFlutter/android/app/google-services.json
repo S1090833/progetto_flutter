@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "862361913798",
+    "project_id": "mycoachf-9d1ec",
+    "storage_bucket": "mycoachf-9d1ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862361913798:android:9ea4a36f189cdc471c0ac7",
+        "android_client_info": {
+          "package_name": "com.example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBw7VtdCkA_r1DtWr0-wKaebpYE3Bgcl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862361913798:android:bcbac438dc0ebbf71c0ac7",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBw7VtdCkA_r1DtWr0-wKaebpYE3Bgcl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862361913798:android:368ad1dfe22353bc1c0ac7",
+        "android_client_info": {
+          "package_name": "com.example.mycoachflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBw7VtdCkA_r1DtWr0-wKaebpYE3Bgcl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
